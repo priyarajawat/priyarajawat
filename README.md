@@ -1,5 +1,7 @@
 # priyarajawat
 <h1 align="center">Hi 👋, I'm Priya Rajawat</h1>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h3 align="center">- I'm a Full Stack Web Developer skilled in MERN stack</h3>
 
 
