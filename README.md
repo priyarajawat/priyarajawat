@@ -1,5 +1,6 @@
 # priyarajawat
-<h1 align="center">Hi 👋, I'm Priya Rajawat</h1>
+<h1 align="center">Hi 👋, I'm Priya Rajawat</h1><br/>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h3 align="center">- I'm a Full Stack Web Developer skilled in MERN stack</h3>
