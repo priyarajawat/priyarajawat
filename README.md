@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-### I know more about- 
+
 
 ![HTML5](https://img.shields.io/badge/html-HTML5-yellow)
 ![CSS3](https://img.shields.io/badge/css-CSS3-brightgreen)
