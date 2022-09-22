@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priya Rajawat</h1><br/>
 >
 
-<img width="65%" align="right" alt="Github" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif" />
+<img width="50%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXWL2p-j52TkPc-Rpuie5hyPn7Znw0lgynwh5We0pKw&s" />
 <br/>
 <br/>
 <h3 align="center">- I'm a Full Stack Web Developer skilled in MERN stack</h3>
