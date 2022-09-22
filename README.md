@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript, React, Redux**
 
-- 📫 Reach me at **priyarajawat770@gmail.com**
+- 📫 Reach out to me **priyarajawat770@gmail.com**
 
 
 
