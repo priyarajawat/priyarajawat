@@ -31,7 +31,9 @@
 ![CSS3](https://img.shields.io/badge/css-CSS3-brightgreen)
 ![JavaScript](https://img.shields.io/badge/JS-Javascript-red)
 ![React](https://img.shields.io/badge/React-React-blue)
+![Redux](https://img.shields.io/badge/Redux-Redux-violet)
 ![Express](https://img.shields.io/badge/express-Express-blueviolet)
+![Node.JS](https://img.shields.io/badge/Nodejs-Nodejs-navyblue)
 ![Mongodb](https://img.shields.io/badge/Mongodb-mongodb-brightgreen)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyarajawat&show_icons=true&locale=en&layout=compact" alt="priyarajawat" /></p>
