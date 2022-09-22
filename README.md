@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priya Rajawat</h1><br/>
 >
 
-<img width="45%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXWL2p-j52TkPc-Rpuie5hyPn7Znw0lgynwh5We0pKw&s" />
+<img width="45%" align="right" alt="Github" src="https://soan.netlify.app/assets/images/website-designing.gif" />
 <br/>
 <br/>
 <h3 align="center">- I'm a Full Stack Web Developer skilled in MERN stack</h3>
